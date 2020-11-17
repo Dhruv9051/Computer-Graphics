@@ -14,7 +14,7 @@
 	scanf("%d",&r);
 	x=0;
 	y=r;
-	d=1-r;
+	d=1-r; //initial decision parameter
 	initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");
 	do
 	{
